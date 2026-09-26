@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+.cache/
+.idea/
+node_modules/
+dist/
+.next/
+.turbo/
